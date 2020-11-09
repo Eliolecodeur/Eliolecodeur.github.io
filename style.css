@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+	 color: green;
+	 font-family:;
+}
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+.backgroundcolor {
+	color: blue;
+}
+.infosurprise {
+color: black;
+}
+.infosurprise:hover {
+	color: yellow;
+}
+a.bouton1 {
+padding: 1px 30px; 
+background: green; 
+color: white; 
+}
+a.bouton1:hover {
+background: red; 
+}
+u{
+	text-decoration-color: red;
+	color:green;
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>comment réaliser une page web par Elio Alessandri-Gotszorg</title>
+</head>
+<body>
+	<h1>Travail de SNT</h1>
+	<h2>apprendre à coder en HTML</h2>
+	<p>Pour cela il faut rechercher le blocnote dans le dossier <?>accessoire windows</?> puis l'enregistrer
+	dans un dossier, <?>site web</?> sous le nom de <b>index.html</b>.</p>
+	<p>Suite à ça retrouvez le fichier dans votre explorateur de fichier, et ouvrez le dans un navigateur mais pas Internet Explorer ou Edge.</p> 
+	<p><b>Comment modifier sa page web ?</b></p>
+	<p>Afin de modifier sa page web vous pouvez ajouter du texte dans le bloc note puis, enregistrer le travail grâce à <b>Ctrl+S</b>. 
+	Ensuite sur la page du navigateur il ne vous reste plus qu'a rafraichir la page avec <b>Ctrl+R</b>.</p>
+	<p><b>Grâce au HTML on peut faire ce type de code : </b></p>
+	<img src="image.jpg" />
+</body>
+</html>
